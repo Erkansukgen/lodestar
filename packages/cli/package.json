@@ -52,7 +52,7 @@
   ],
   "dependencies": {
     "@chainsafe/bls": "^8.1.0",
-    "@chainsafe/blst": "^1.0.0",
+    "@chainsafe/blst": "^1.0.1",
     "@chainsafe/bls-keygen": "^0.4.0",
     "@chainsafe/bls-keystore": "^3.0.1",
     "@chainsafe/discv5": "^9.0.0",
@@ -80,7 +80,7 @@
     "find-up": "^6.3.0",
     "got": "^11.8.6",
     "inquirer": "^9.1.5",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.1.1",
     "prom-client": "^15.1.0",
     "proper-lockfile": "^4.1.2",
     "rimraf": "^4.4.1",
